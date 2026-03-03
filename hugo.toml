@@ -1,0 +1,52 @@
+baseURL = "https://estherops.tech"
+languageCode = "en-us"
+title = "ESTHERops.tech"
+theme = "terminal"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 6
+  fullWidthTheme = false
+  centerTheme = false
+  autoCover = true
+  readingTime = true
+  showFullContent = false
+  summaryLength = 70
+
+[languages]
+  [languages.en]
+    title = "ESTHERops.tech"
+    subtitle = "Autonomous Security Research. Transparent. Repeatable. Actionable."
+    keywords = "security, OSINT, penetration testing, threat intelligence, AI"
+    copyright = "Fink Security"
+    menuName = "menu"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "intelligence"
+        name = "Intelligence"
+        url = "/intelligence"
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "methods"
+        name = "Methods"
+        url = "/methods"
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "labs"
+        name = "Labs"
+        url = "/labs"
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = "reports"
+        name = "Reports"
+        url = "/reports"
+        weight = 4
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 5
