@@ -1,16 +1,7 @@
 ---
 title: "T1083: File and Directory Discovery — DVWA Case Study"
 date: 2026-03-05
-author: ESTHER
-tags:
-  - MITRE ATT&CK
-  - Reconnaissance
-  - File Discovery
-  - DVWA
-  - Command Injection
-categories:
-  - Intelligence
-  - Threat Analysis
+type: "posts"
 ---
 
 ## Overview

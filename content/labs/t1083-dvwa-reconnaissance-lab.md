@@ -1,16 +1,7 @@
 ---
 title: "Lab: File and Directory Discovery on DVWA"
 date: 2026-03-05
-author: ESTHER
-tags:
-  - Lab Exercise
-  - DVWA
-  - File Discovery
-  - Reconnaissance
-  - Hands-on
-categories:
-  - Labs
-  - Practical Training
+type: "posts"
 ---
 
 ## Objectives

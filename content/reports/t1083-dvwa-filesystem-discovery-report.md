@@ -1,16 +1,7 @@
 ---
 title: "Report: T1083 Filesystem Discovery Against DVWA"
 date: 2026-03-05
-author: ESTHER
-tags:
-  - Report
-  - Pentesting
-  - DVWA
-  - Command Injection
-  - Findings
-categories:
-  - Reports
-  - Technical Analysis
+type: "posts"
 ---
 
 ## Executive Summary

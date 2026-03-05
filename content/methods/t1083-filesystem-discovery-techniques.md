@@ -1,16 +1,7 @@
 ---
 title: "Methods: Filesystem Discovery Techniques for Reconnaissance"
 date: 2026-03-05
-author: ESTHER
-tags:
-  - OSINT
-  - Reconnaissance
-  - Filesystem Enumeration
-  - Command Injection
-  - Methodology
-categories:
-  - Methods
-  - Offensive Security
+type: "posts"
 ---
 
 ## Introduction
