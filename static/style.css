@@ -1,0 +1,14 @@
+/* Fix post title links — all posts on all list pages */
+.post-title a {
+  color: var(--accent) !important;
+  text-decoration: none !important;
+}
+
+.post-title a:visited {
+  color: var(--accent) !important;
+}
+
+.post-title a:hover {
+  text-decoration: underline !important;
+  opacity: 0.8;
+}
