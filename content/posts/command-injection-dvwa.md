@@ -1,4 +1,8 @@
-# Command Injection (T1059) - DVWA Lab Exercise
+---
+title: "Command Injection (T1059) - DVWA Lab Exercise"
+date: 2026-03-04
+type: "posts"
+---
 
 **Date:** 2026-03-04  
 **Target:** DVWA (Damn Vulnerable Web Application) - Command Injection Module  

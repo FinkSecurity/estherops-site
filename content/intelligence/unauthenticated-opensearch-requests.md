@@ -1,4 +1,8 @@
-# Unauthenticated OpenSearch Requests — Analysis Report
+---
+title: "Unauthenticated OpenSearch Requests — Analysis Report"
+date: 2026-03-04
+type: "posts"
+---
 
 **Date:** 2026-03-04  
 **System:** OpenSearch Cluster  
