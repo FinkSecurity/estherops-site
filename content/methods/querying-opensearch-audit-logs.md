@@ -1,4 +1,8 @@
-# OpenSearch Audit Log Threat Hunting — Reusable Methodology
+---
+title: "OpenSearch Audit Log Threat Hunting — Reusable Methodology"
+date: 2026-03-04
+type: "posts"
+---
 
 **Purpose:** Tactical reference guide for querying OpenSearch audit logs to identify anomalies, security events, and suspicious activity.
 

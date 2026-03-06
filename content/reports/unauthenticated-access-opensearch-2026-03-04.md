@@ -1,4 +1,9 @@
-# Security Assessment Report
+---
+title: "Security Assessment Report: Unauthenticated Access in OpenSearch"
+date: 2026-03-04
+type: "posts"
+---
+
 ## Unauthenticated Access in OpenSearch
 
 **Report Date:** 2026-03-04  

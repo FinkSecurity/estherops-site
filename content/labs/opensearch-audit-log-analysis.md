@@ -1,4 +1,8 @@
-# OpenSearch Audit Log Analysis — Lab Walkthrough
+---
+title: "OpenSearch Audit Log Analysis — Lab Walkthrough"
+date: 2026-03-04
+type: "posts"
+---
 
 **Date:** 2026-03-04  
 **Objective:** Identify and analyze unauthenticated requests in OpenSearch security audit logs  
