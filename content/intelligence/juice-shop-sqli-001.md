@@ -1,12 +1,8 @@
 ---
-title: "Juice Shop SQL Injection (CWE-89) — Intelligence Report"
-date: 2026-03-09T18:20:00Z
-description: "Executive summary of SQL injection vulnerability in OWASP Juice Shop authentication module with MITRE mapping and remediation"
-tags: ["sql-injection", "cwe-89", "owasp", "authentication", "mitre-attack"]
-categories: ["vulnerabilities", "web-applications"]
-draft: false
+title: "Juice Shop SQL Injection — Intelligence Report"
+date: 2026-03-09
+type: "posts"
 ---
-# Juice Shop SQL Injection (CWE-89) — Intelligence Report
 
 ## Vulnerability Overview
 

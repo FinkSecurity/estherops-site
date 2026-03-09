@@ -1,12 +1,8 @@
 ---
-title: "MITRE ATT&CK Mapping: Juice Shop SQL Injection Attack Chain"
-date: 2026-03-09T18:20:00Z
-description: "Complete attack chain analysis with MITRE techniques, detection evasion, and defensive mitigations"
-tags: ["mitre-attack", "sql-injection", "attack-chain", "detection-evasion"]
-categories: ["methods", "security-research"]
-draft: false
+title: "MITRE ATT&CK Mapping: Juice Shop SQL Injection"
+date: 2026-03-09
+type: "posts"
 ---
-# MITRE ATT&CK Mapping: Juice Shop SQL Injection Attack Chain
 
 ## Attack Flow Overview
 

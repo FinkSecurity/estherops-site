@@ -1,12 +1,9 @@
 ---
-title: "Formal Security Assessment: OWASP Juice Shop SQL Injection Analysis"
-date: 2026-03-09T18:20:00Z
-description: "Comprehensive security assessment report for SQL injection vulnerability with CVSS scoring, compliance mapping, and remediation recommendations"
-tags: ["security-assessment", "sql-injection", "formal-report", "compliance"]
-categories: ["reports", "assessments"]
-draft: false
+title: "Juice Shop SQL Injection — Formal Assessment Report"
+date: 2026-03-09
+type: "posts"
 ---
-# FORMAL SECURITY ASSESSMENT REPORT
+
 ## OWASP Juice Shop — SQL Injection Vulnerability Analysis
 
 **Report ID:** JUICE-SHOP-SQLI-001  

@@ -1,12 +1,8 @@
 ---
 title: "Juice Shop SQL Injection — Lab Exercise & POC"
-date: 2026-03-09T18:20:00Z
-description: "Hands-on lab walkthrough for exploiting SQL injection vulnerability in OWASP Juice Shop with curl commands"
-tags: ["sql-injection", "laboratory", "proof-of-concept", "hands-on"]
-categories: ["labs", "training"]
-draft: false
+date: 2026-03-09
+type: "posts"
 ---
-# Juice Shop SQL Injection — Lab Exercise & POC
 
 ## Lab Environment Setup
 
