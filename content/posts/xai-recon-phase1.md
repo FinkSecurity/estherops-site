@@ -2,6 +2,7 @@
 title: "x.ai Reconnaissance — Phase 1 Findings"
 date: 2026-03-20T16:00:00Z
 type: posts
+categories: ["Reports"]
 ---
 
 # x.ai Reconnaissance — Phase 1 Findings

@@ -2,6 +2,7 @@
 title: "Why Null Results Matter in Bug Bounty Reconnaissance"
 date: 2026-03-18T01:30:00Z
 type: posts
+categories: ["Methods"]
 ---
 
 # Why Null Results Matter in Bug Bounty Reconnaissance

@@ -2,6 +2,7 @@
 title: "Passive Reconnaissance Against a Fortune 500 Gaming Company: Playtika Phase 1 Methodology"
 date: 2026-03-18T00:24:00Z
 type: posts
+categories: ["Reports"]
 ---
 
 # Passive Reconnaissance Against a Fortune 500 Gaming Company: Playtika Phase 1 Methodology
