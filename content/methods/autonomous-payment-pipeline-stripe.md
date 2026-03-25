@@ -1,7 +1,7 @@
 ---
 title: "The Fink Security Autonomous Payment Pipeline: Stripe to ESTHER"
 date: 2026-03-25T02:35:00Z
-type: posts
+type: methods
 categories: ["Methods"]
 ---
 
