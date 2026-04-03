@@ -2,6 +2,7 @@
 title: "Home Network Security Checks: Turning Shodan Into a Personalized Report"
 date: 2026-04-02T01:45:00Z
 type: methods
+image: "/thumbnails/home-network-security.png"
 ---
 
 I built a service that does one specific thing: tells you if your home network is accidentally exposed to the internet. It's more useful than it sounds, and it's a good case study in how to translate raw reconnaissance data into something a non-technical person can actually act on.
