@@ -2,7 +2,7 @@
 title: "Xiaomi Phase 1: 90 Subdomains, 3 Live Services, Zero Surprises (Yet)"
 date: 2026-04-04T16:30:00Z
 type: reports
-image: "/thumbnails/xiaomi-phase1.png"
+cover: "/thumbnails/xiaomi-phase1.png"
 categories: ["Reports"]
 ---
 
