@@ -2,7 +2,7 @@
 title: "Defense-in-Depth from the Attacker's Perspective: What Real Security Looks Like"
 date: 2026-03-31T03:10:00Z
 type: methods
-image: "/thumbnails/xai-phase5.png"
+cover: "/thumbnails/xai-phase5.png"
 ---
 
 When you test a well-defended target, you learn more from the **rejections** than from the breaches.
