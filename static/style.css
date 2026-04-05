@@ -1,4 +1,11 @@
-/* Fix post title links — all posts on all list pages */
+/* Fink Security brand override — replaces Terminal theme orange palette */
+:root {
+  --background: #0a0a12;
+  --foreground: #e2e8f0;
+  --accent: #22d3ee;
+}
+
+/* Fix post title links */
 .post-title a {
   color: var(--accent) !important;
   text-decoration: none !important;
@@ -11,4 +18,10 @@
 .post-title a:hover {
   text-decoration: underline !important;
   opacity: 0.8;
+}
+
+/* Thumbnail images — add cyan border glow to match brand */
+.post-cover img, img[src*="/thumbnails/"] {
+  border: 1px solid rgba(34,211,238,0.25);
+  box-shadow: 0 0 20px rgba(34,211,238,0.15);
 }
